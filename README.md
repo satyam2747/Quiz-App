@@ -87,12 +87,6 @@ Go to 👉 <http://localhost:3000>
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
 
-**Your Name**\
-[GitHub](https://github.com/navneetKushwaha-0N/-quiz-app.git)
-[LinkedIn](https://www.linkedin.com/in/navneet--kushwaha/)
-
-------------------------------------------------------------------------
 
 
