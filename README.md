@@ -23,7 +23,7 @@ scores locally.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/navneetKushwaha-0N/-quiz-app.git
+git clone https://github.com/satyam2747/Quiz-App.git
 cd quiz-app
 ```
 
