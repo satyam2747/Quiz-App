@@ -41,22 +41,25 @@ npm run dev
 
 ### 4. Open in browser
 
-Go to 👉 <http://localhost:3000>
+Go to 👉 <https://quiz-app-alpha-liart-88.vercel.app/>
 
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
-    quiz-app/
-    │── public/             # Static assets
-    │── src/
-    │   ├── components/     # UI Components (Timer, HighScores, QuizCard...)
-    │   ├── context/        # Global state (QuizContext)
-    │   ├── utils/          # Helper functions (localStorage handling)
-    │   ├── pages/          # Main pages (Home, Quiz, HighScores)
-    │   └── App.jsx         # Main React App entry
-    │── package.json        # Dependencies & scripts
-    │── README.md           # Documentation
+    Quiz-App/
+    ├── src/
+    │   ├── components/       # Reusable UI components (Timer, HighScores, QuizCard)
+    │   ├── context/          # React Context for global quiz state
+    │   ├── pages/            # Page components (Home, Quiz, Results)
+    │   ├── utils/            # Helper functions (localStorage, scoring)
+    │   ├── App.jsx           # Main app with routing
+    │   └── main.jsx          # React entry point
+    ├── public/               # Static assets
+    ├── index.html            # HTML template
+    ├── vite.config.js        # Vite config
+    ├── tailwind.config.js    # Tailwind config
+    └── package.json          # Dependencies
 
 ------------------------------------------------------------------------
 
